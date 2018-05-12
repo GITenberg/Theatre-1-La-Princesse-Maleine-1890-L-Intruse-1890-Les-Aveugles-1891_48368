@@ -1,4 +1,8 @@
 _repo: Theatre-1-La-Princesse-Maleine-1890-L-Intruse-1890-Les-Aveugles-1891_48368
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48368#Theatre-1-La-Princesse-Maleine-1890-L-Intruse-1890-Les-Aveugles-1891
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2015-02-28'
 gutenberg_type: Text
