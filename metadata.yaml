@@ -23,6 +23,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Théâtre 1
 
   La Princesse Maleine (1890) - L''Intruse (1890) - Les Aveugles (1891)'
